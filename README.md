@@ -1,10 +1,10 @@
-# Feather Elementary School
+# Feather University
 
-Welcome to the Feather Elementary School website repository. This site serves as the online presence for our school, providing information about our mission, programs, and how to get in touch.
+Welcome to the Feather University website repository. This site serves as the online presence for our school, providing information about our mission, programs, and how to get in touch.
 
 ## About
 
-Feather Elementary School is dedicated to nurturing curious minds and fostering a supportive learning environment. Our experienced teachers, vibrant arts and athletics programs, and commitment to community engagement help every student thrive.
+Feather University is dedicated to nurturing curious minds and fostering a supportive learning environment. Our experienced teachers, vibrant arts and athletics programs, and commitment to community engagement help every student thrive.
 
 ## Contact
 
